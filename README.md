@@ -1,4 +1,4 @@
-# 📊 Data Visualization & Exploratory Data Analysis (EDA) Projects
+# 📊 Data Visualization & Exploratory Data Analysis (EDA) Project
 
 This folder contains my hands-on assignments and projects focused on **Data Visualization** and **Exploratory Data Analysis (EDA)** using Python libraries like **Matplotlib**, **Seaborn**, and **Pandas**. These projects reflect my ability to analyze, visualize, and interpret complex datasets effectively.
 
